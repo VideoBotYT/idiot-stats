@@ -21,7 +21,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&layout=compact
-          path: profile/stats.svg
+          path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate wakatime card
@@ -29,7 +29,7 @@ jobs:
         with:
           card: wakatime
           options: username=Daveberry&theme=transparent&layout=compact
-          path: profile/wakatime.svg
+          path: wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
