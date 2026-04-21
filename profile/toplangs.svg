@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="165.912"
+            width="165.726"
             height="8"
             fill="#3572A5"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="165.912"
+            x="165.726"
             y="0"
-            width="92.07"
+            width="91.977"
             height="8"
             fill="#ff3e00"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="257.98199999999997"
+            x="257.703"
             y="0"
-            width="84.25800000000001"
+            width="84.165"
             height="8"
             fill="#e34c26"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="342.24"
+            x="341.868"
             y="0"
-            width="48.54599999999999"
+            width="48.453"
             height="8"
             fill="#083fa1"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="390.786"
+            x="390.321"
             y="0"
-            width="40.87349999999999"
+            width="40.780499999999996"
             height="8"
             fill="#663399"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="431.6595"
+            x="431.10150000000004"
             y="0"
-            width="34.2705"
+            width="34.967999999999996"
             height="8"
             fill="#f1e05a"
           />
@@ -223,7 +223,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 22 hrs 57 mins
+        JavaScript - 23 hrs 25 mins
       </text>
     </g>
   
