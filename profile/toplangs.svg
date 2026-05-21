@@ -195,7 +195,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#ff3e00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Svelte - 73 hrs 38 mins
+        Svelte - 73 hrs 39 mins
       </text>
     </g>
   
