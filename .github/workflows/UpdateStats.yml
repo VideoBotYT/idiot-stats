@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&theme=transparent&layout=compact
+          options: username=${{ github.repository_owner }}&theme=midnight-purple&layout=compact
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=VideoBot&theme=transparent&layout=compact
+          options: username=VideoBot&theme=midnight-purple
           path: profile/toplangs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
