@@ -28,7 +28,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=VideoBot&theme=midnight-purple
+          options: username=VideoBot&theme=midnight-purple&langs_count=6
           path: profile/toplangs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
